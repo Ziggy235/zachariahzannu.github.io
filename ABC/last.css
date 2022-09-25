@@ -1,0 +1,32 @@
+.work {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .work a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .work a:hover {
+    background-color: #ddd;
+    color: black;
+  
+  }
+  .work a.active {
+    background-color: #04aa6d;
+    color: white;
+  }
+
+
+  body{
+    background-image: url(temp\ 2.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: cover;
+    }
